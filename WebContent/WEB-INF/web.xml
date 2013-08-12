@@ -29,6 +29,12 @@
 				]
 			</param-value>
 		</init-param>
+		<init-param>
+			<description>
+			Application widgetset</description>
+			<param-name>widgetset</param-name>
+			<param-value>de.neo7even.vaadin.required.test.widgetset.RequiredjavascriptlibsWidgetset</param-value>
+		</init-param>
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>Requiredjavascriptlibs Application</servlet-name>
